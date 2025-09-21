@@ -1,4 +1,4 @@
-# 🖼️ AI Vision RAG Explorer
+#  AI Vision RAG Explorer
 
 ### An interactive **Visual Retrieval-Augmented Generation (RAG)** system that combines:  
 ### 🔎 **Cohere Embed-4** for multimodal embeddings  
