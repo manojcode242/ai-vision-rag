@@ -1,1 +1,1 @@
-# ai-vision-rag
+# A professional AI-powered Visual RAG system that combines Cohere Embed 4 for multimodal embeddings and Google Gemini for intelligent visual question answering. Supports PDF and image uploads, semantic search, and interactive insights through a Streamlit interface.
