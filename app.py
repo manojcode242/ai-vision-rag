@@ -83,7 +83,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Enhanced Title ---
-st.markdown("<h1> AI Vision RAG Explorer</h1>", unsafe_allow_html=True)
+st.markdown("<h1></h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align:center;font-size:18px;color:#ccc;'>Unlock insights from documents & images with Cohere + Gemini 🚀</p>", unsafe_allow_html=True)
 
 # --- Initialize API Clients ---
@@ -282,3 +282,4 @@ else:
 
 # --- Footer ---
 st.markdown("<div class='footer'>✨ Built with Cohere Embed-4 & Google Gemini | A Next-Gen Vision RAG</div>", unsafe_allow_html=True)
+
